@@ -33,3 +33,7 @@ The system uses a two-stage approach — **DeepFace (FaceNet)** extracts rich 12
 
 **Colab link:**
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1OsvnQtY23rwnfFVGNKCw_bO5qmDM0ISN?usp=sharing)
+
+*Author*
+
+*Rekha Dhorigol*
